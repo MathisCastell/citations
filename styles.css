@@ -1,0 +1,88 @@
+body {
+    background-color: #FFFFFF; /* Couleur de fond blanche */
+    color: #000000; /* Couleur de texte noire */
+    font-family: Arial, sans-serif; /* Police de caractères Arial */
+}
+
+.navbar {
+    background-image: linear-gradient(#303030, #ffffff); /* Dégradé de gris à blanc pour la barre de gauche */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2); /* Effet d'ombre pour la barre de navigation */
+}
+
+.navbar .nav-link {
+    color: #303030; /* Couleur de texte blanche pour les liens de la barre de navigation */
+    transition: color 0.3s; /* Effet de transition pour les liens de la barre de navigation */
+    background-image: linear-gradient(#303030, #ffffff); /* Dégradé de gris à blanc pour la barre de gauche */
+}
+
+.navbar .nav-link:hover {
+    color: #FF0000; /* Couleur de texte rouge pour les liens de la barre de navigation au survol de la souris */
+}
+
+.container {
+    width: 200vw; /* Largeur égale à la largeur de la fenêtre */
+    height: 100vh; /* Hauteur égale à la hauteur de la fenêtre */
+    overflow: hidden; /* Pas de barres de défilement */
+}
+
+h1 {
+    background-color: #303030; /* Couleur de fond noire */
+    color: #FFFFFF; /* Couleur de texte blanche */
+    padding: 10px; /* Espace entre le texte et les bords */
+    width: fit-content; /* Largeur ajustée au texte */
+}
+
+h2 {
+    color: #303030; /* Couleur de texte grise */
+    padding: 10px; /* Espace entre le texte et les bords */
+    width: fit-content; /* Largeur ajustée au texte */
+}
+
+h3 {
+    color: #303030; /* Couleur de texte grise */
+    padding: 10px; /* Espace entre le texte et les bords */
+    width: fit-content; /* Largeur ajustée au texte */
+}
+
+p {
+    text-align: justify;
+    color: #666;
+}
+
+.rounded-square {
+    border-radius: 25px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2); /* Effet d'ombre pour les rectangles */
+    transition: transform 0.3s; /* Effet de transition pour les rectangles */
+}
+
+.rounded-square:hover {
+    transform: scale(1.1); /* Effet de zoom pour les rectangles au survol de la souris */
+}
+
+.col-12.col-md-2 {
+    background-color: #303030;
+     /* Dégradé de gris à blanc pour la barre de gauche */
+}
+
+footer {
+    background-color: #303030; /* Couleur de fond gris foncé */
+    height: 25%; /* utiliser une classe Bootstrap ou une valeur fixe */
+    
+}
+
+a {
+    color: grey; /* Change la couleur des liens en gris */
+}
+
+a:hover {
+    font-size: 1.1em; /* Augmente la taille du texte quand on passe dessus avec la souris */
+}
+
+.col-12.col-md-2.degrade {
+    background-color: #303030; /* Couleur de fond gris foncé */
+    /*background-image: linear-gradient(#303030, #ffffff); Dégradé de gris à blanc pour la barre de gauche */
+}

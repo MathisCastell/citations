@@ -1,0 +1,34 @@
+</div> 
+
+                <div class="col-12 col-md-2"> 
+</div> 
+<div class="col-12 col-md-10">
+                
+     
+                <br/>
+                <!-- Section de citations déroulantes -->
+                <div class="card-deck" id="prehistoire">
+                        <div class="card">
+                            <img src="images/alexandertg.jpg" class="card-img-top" alt="Citation 1">
+                            <div class="card-body">
+                                <p class="card-text">"Ce ne sont pas les fils qui perpétuent la mémoire des pères, ce sont les bonnes actions & les bonnes mœurs. Il ne serait pas aussi de la grandeur d'un Conquérant, comme moi , de se laisser vaincre par des femmes, après avoir vaincu tout l'Univers." - Alexandre le Grand</p>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <img src="images/alexandertg.jpg" class="card-img-top" alt="Citation 1">
+                            <div class="card-body">
+                                <p class="card-text">"Si je n'étais Alexandre, je serais Diogène." - Alexandre le Grand</p>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <img src="images/alexandertg.jpg" class="card-img-top" alt="Citation 1">
+                            <div class="card-body">
+                                <p class="card-text">"Le soleil ne se couche pas sur mon Empire." - Alexandre le Grand</p>
+                            </div>
+                        </div>
+                        </div>
+</div>
+</div>
+</div>
+</div>
+</div>
